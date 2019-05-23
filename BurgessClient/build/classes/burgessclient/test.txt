@@ -1,0 +1,7 @@
+This is my dummy text file
+it has some text in it
+hopefully it will get transmitted properly
+I am just filling in whatever I can think of at this point so that hopefully the file has enough content that it is an
+interesting challenge for the program to transmit. I think each char is 2 bytes so that's a lot of bytes at this point...
+but the cap on a packet is 1400 bytes so i feel like maybe this can all fit in one packet?
+I'm going to leave it here for now and we'll find out
